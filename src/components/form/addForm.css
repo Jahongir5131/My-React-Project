@@ -1,0 +1,12 @@
+#idForm{
+    margin-bottom:10px ;
+}
+
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 514px;
+    height: 16px;
+    /* border-radius: 4px; */
+
+}
